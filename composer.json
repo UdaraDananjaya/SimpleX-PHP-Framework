@@ -1,0 +1,14 @@
+{
+    "name": "simplexphp/simplexphp",
+    "description": "SimpleX for your Projects ",
+    "authors": [
+        {
+            "name": "Udara Dananjaya",
+            "email": "Budananjaya@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1"
+    }
+}
